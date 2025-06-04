@@ -1,0 +1,14 @@
+G:\MatrixSum\MatrixSum\MatrixSum\bin\Debug\net7.0\MatrixSum.exe
+G:\MatrixSum\MatrixSum\MatrixSum\bin\Debug\net7.0\MatrixSum.deps.json
+G:\MatrixSum\MatrixSum\MatrixSum\bin\Debug\net7.0\MatrixSum.runtimeconfig.json
+G:\MatrixSum\MatrixSum\MatrixSum\bin\Debug\net7.0\MatrixSum.dll
+G:\MatrixSum\MatrixSum\MatrixSum\bin\Debug\net7.0\MatrixSum.pdb
+G:\MatrixSum\MatrixSum\MatrixSum\obj\Debug\net7.0\MatrixSum.GeneratedMSBuildEditorConfig.editorconfig
+G:\MatrixSum\MatrixSum\MatrixSum\obj\Debug\net7.0\MatrixSum.AssemblyInfoInputs.cache
+G:\MatrixSum\MatrixSum\MatrixSum\obj\Debug\net7.0\MatrixSum.AssemblyInfo.cs
+G:\MatrixSum\MatrixSum\MatrixSum\obj\Debug\net7.0\MatrixSum.csproj.CoreCompileInputs.cache
+G:\MatrixSum\MatrixSum\MatrixSum\obj\Debug\net7.0\MatrixSum.dll
+G:\MatrixSum\MatrixSum\MatrixSum\obj\Debug\net7.0\refint\MatrixSum.dll
+G:\MatrixSum\MatrixSum\MatrixSum\obj\Debug\net7.0\MatrixSum.pdb
+G:\MatrixSum\MatrixSum\MatrixSum\obj\Debug\net7.0\MatrixSum.genruntimeconfig.cache
+G:\MatrixSum\MatrixSum\MatrixSum\obj\Debug\net7.0\ref\MatrixSum.dll
