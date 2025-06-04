@@ -1,0 +1,4 @@
+G:\MatrixSum\MatrixSum\obj\Debug\net7.0\MatrixSum.GeneratedMSBuildEditorConfig.editorconfig
+G:\MatrixSum\MatrixSum\obj\Debug\net7.0\MatrixSum.AssemblyInfoInputs.cache
+G:\MatrixSum\MatrixSum\obj\Debug\net7.0\MatrixSum.AssemblyInfo.cs
+G:\MatrixSum\MatrixSum\obj\Debug\net7.0\MatrixSum.csproj.CoreCompileInputs.cache

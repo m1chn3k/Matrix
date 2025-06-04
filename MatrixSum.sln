@@ -2,7 +2,7 @@
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixSum", "MatrixSum\MatrixSum.csproj", "{90AE6341-3BF3-4A99-A545-E32AFF5819D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixSum", "MatrixSum\MatrixSum\MatrixSum.csproj", "{90AE6341-3BF3-4A99-A545-E32AFF5819D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
